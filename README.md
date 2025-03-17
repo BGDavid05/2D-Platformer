@@ -9,7 +9,7 @@ This is a 2D platformer game built using Java. The game features classic platfor
 ## ⭐ Features
 - Smooth 2D movement and physics
 - Multiple levels with increasing difficulty
-- Enemy AI and interactive objects
+- Enemy and interactive objects
 - Pixel-art style graphics and animations
 - Background music and sound effects
 
