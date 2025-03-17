@@ -3,17 +3,17 @@ Medium Java Project
 
 # Java 2D Platformer Game
 
-## About the Game
+## 🎮 About the Game
 This is a 2D platformer game built using Java. The game features classic platforming mechanics, including jumping, running, and avoiding obstacles. Players navigate through levels, defeat enemies, and collect items to progress.
 
-## Features
+## ⭐ Features
 - Smooth 2D movement and physics
 - Multiple levels with increasing difficulty
 - Enemy AI and interactive objects
 - Pixel-art style graphics and animations
 - Background music and sound effects
 
-## Technologies Used
+## 🛠️ Technologies Used
 - Java (Swing / JavaFX for rendering)
 - Object-oriented programming (OOP) principles
 - Tile-based level design
